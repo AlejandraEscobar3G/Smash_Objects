@@ -1,0 +1,14 @@
+.pd-4{
+	padding:4%;
+}
+.mt-2{
+	margin-top: 2%;
+}
+.pd-l-4{
+	padding-left: 4%;
+}
+#texto{
+	font-family: 'Delius Unicase', cursive;
+	color: #5B93FC;
+	font-size: 40px;
+}
