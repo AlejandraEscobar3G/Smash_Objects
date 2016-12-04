@@ -146,7 +146,7 @@ var colors =[{
             },
             {
               src: "img/colors/grey.png",
-              name: "grey"
+              name: "gray"
             },
             {
               src: "img/colors/red.png",
@@ -275,10 +275,10 @@ var transport =[
             },
             {
               src: "img/transporte/toy.png",
-              name: "toy"
+              name: "train"
             },
             {
-              src: "img/transporte/truck.png",
-              name: ""
+              src: "img/transporte/trucking.png",
+              name: "truck"
             },
             ];
