@@ -22,7 +22,7 @@ var animals =[
             },
             {
               src: "img/animals/chick.png",
-              name: "chick"
+              name: "chicken"
             },
             {
               src: "img/animals/cow.png",
@@ -198,7 +198,7 @@ var body =[{
 
 var figures =[{
               src: "img/figuras/rhombus.png",
-              name: "rhombus"
+              name: "rhombs"
             },{
               src: "img/figuras/rectangle.png",
               name: "rectangle"
